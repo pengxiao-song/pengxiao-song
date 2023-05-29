@@ -1,5 +1,24 @@
-### Hi there, I'm Pengxiao👋
+### Hi there, I'm Pengxiao 👋
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengxiao-song&layout=compact)](https://github.com/pengxiao-song/github-readme-stats)
- -->
+- 😊 I’m a first-year master student at [Nanjing University](https://www.nju.edu.cn/).
+- 🎓 My research lies in Knowledge-Based and Data-Driven Machine Learninig. Specially, I currently focus on reliable and interpretable Large Language Model(LLM) in the field of law.
+- 📫 Contact me via songpx@yeah.net, welcome to collaborate and communicate!
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pengxiao-song&count_private=true&show_icons=true" />
+</a>  
+
+
+<!--
+**lihaitao18375278/lihaitao18375278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
