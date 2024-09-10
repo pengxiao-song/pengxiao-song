@@ -1,6 +1,6 @@
 ### Hi there, I'm Pengxiao 👋
 
-- 😊 I’m a first-year master student at [Nanjing University](https://www.nju.edu.cn/).
+- 😊 I’m a master student at [Nanjing University](https://www.nju.edu.cn/).
 - 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig. Specially, I currently focus on reliable and interpretable Large Language Model(LLM).
 - 📫 Contact me via songpx@yeah.net, welcome to collaborate and communicate!
 <a href="">
