@@ -1,24 +1,9 @@
 ### Hi there, I'm Pengxiao 👋
 
-- 😊 I’m a master student at [Nanjing University](https://www.nju.edu.cn/).
-- 🎓 My research interest lies in Knowledge-Based and Data-Driven Machine Learninig. Specially, I currently focus on reliable and interpretable Large Language Model(LLM).
-- 📫 Contact me via songpx@yeah.net, welcome to collaborate and communicate!
+- 🎓 My research during my master's focused on **Large Language Models (LLMs)**.
+- 📊 My current research interests lie in **Machine Learning in Quantitative Finance**, including time series learning, tabular learning, and applying reinforcement learning to financial markets.
+- 🤝 Always open to discussion — feel free to reach out at **songpx@yeah.net**.
+
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pengxiao-song&count_private=true&show_icons=true" />
-</a>  
-
-
-<!--
-**lihaitao18375278/lihaitao18375278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
